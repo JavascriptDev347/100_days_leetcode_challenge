@@ -1,810 +1,106 @@
-100 Kunlik LeetCode Challenge Rejasi
-
-1
-#1
-Two Sum
-Easy
-JavaScript
-Massivlar
-
-
-2
-#7
-Reverse Integer
-Easy
-Java
-Asosiy matematika
-
-
-3
-#217
-Contains Duplicate
-Easy
-TypeScript
-Massivlar
-
-
-4
-#242
-Valid Anagram
-Easy
-JavaScript
-Stringlar
-
-
-5
-#88
-Merge Sorted Array
-Easy
-Java
-Massivlar
-
-
-6
-#121
-Best Time to Buy and Sell Stock
-Easy
-TypeScript
-Massivlar
-
-
-7
-#283
-Move Zeroes
-Easy
-JavaScript
-Massivlar
-
-
-8
-#169
-Majority Element
-Easy
-Java
-Massivlar
-
-
-9
-#26
-Remove Duplicates from Sorted Array
-Easy
-TypeScript
-Massivlar
-
-
-10
-#28
-Find the Index of the First Occurrence in a String
-Easy
-JavaScript
-Stringlar
-
-
-11
-#27
-Remove Element
-Easy
-Java
-Massivlar
-
-
-12
-#66
-Plus One
-Easy
-TypeScript
-Massivlar
-
-
-13
-#136
-Single Number
-Easy
-JavaScript
-Massivlar
-
-
-14
-#189
-Rotate Array
-Easy
-Java
-Massivlar
-
-
-15
-#350
-Intersection of Two Arrays II
-Easy
-TypeScript
-Massivlar
-
-
-16
-#414
-Third Maximum Number
-Easy
-JavaScript
-Massivlar
-
-
-17
-#448
-Find All Numbers Disappeared in an Array
-Easy
-Java
-Massivlar
-
-
-18
-#485
-Max Consecutive Ones
-Easy
-TypeScript
-Massivlar
-
-
-19
-#509
-Fibonacci Number
-Easy
-JavaScript
-Asosiy matematika
-
-
-20
-#561
-Array Partition I
-Easy
-Java
-Massivlar
-
-
-21
-#344
-Reverse String
-Easy
-JavaScript
-Stringlar
-
-
-22
-#125
-Valid Palindrome
-Easy
-Java
-Stringlar
-
-
-23
-#704
-Binary Search
-Easy
-TypeScript
-Ikkilik qidiruv
-
-
-24
-#278
-First Bad Version
-Easy
-JavaScript
-Ikkilik qidiruv
-
-
-25
-#14
-Longest Common Prefix
-Easy
-Java
-Stringlar
-
-
-26
-#28
-Implement strStr()
-Easy
-TypeScript
-Stringlar
-
-
-27
-#58
-Length of Last Word
-Easy
-JavaScript
-Stringlar
-
-
-28
-#35
-Search Insert Position
-Easy
-Java
-Ikkilik qidiruv
-
-
-29
-#557
-Reverse Words in a String III
-Easy
-TypeScript
-Stringlar
-
-
-30
-#67
-Add Binary
-Easy
-JavaScript
-Stringlar
-
-
-31
-#125
-Valid Palindrome
-Easy
-Java
-Stringlar
-
-
-32
-#167
-Two Sum II - Input Array Is Sorted
-Easy
-TypeScript
-Ikkilik qidiruv
-
-
-33
-#345
-Reverse Vowels of a String
-Easy
-JavaScript
-Stringlar
-
-
-34
-#387
-First Unique Character in a String
-Easy
-Java
-Stringlar
-
-
-35
-#389
-Find the Difference
-Easy
-TypeScript
-Stringlar
-
-
-36
-#392
-Is Subsequence
-Easy
-JavaScript
-Stringlar
-
-
-37
-#415
-Add Strings
-Easy
-Java
-Stringlar
-
-
-38
-#434
-Number of Segments in a String
-Easy
-TypeScript
-Stringlar
-
-
-39
-#459
-Repeated Substring Pattern
-Easy
-JavaScript
-Stringlar
-
-
-40
-#709
-To Lower Case
-Easy
-Java
-Stringlar
-
-
-41
-#21
-Merge Two Sorted Lists
-Easy
-JavaScript
-Linked List
-
-
-42
-#19
-Remove Nth Node From End of List
-Medium
-Java
-Linked List
-
-
-43
-#20
-Valid Parentheses
-Easy
-TypeScript
-Stack
-
-
-44
-#232
-Implement Queue using Stacks
-Easy
-JavaScript
-Stack/Queue
-
-
-45
-#206
-Reverse Linked List
-Easy
-Java
-Linked List
-
-
-46
-#155
-Min Stack
-Easy
-TypeScript
-Stack
-
-
-47
-#234
-Palindrome Linked List
-Easy
-JavaScript
-Linked List
-
-
-48
-#876
-Middle of the Linked List
-Easy
-Java
-Linked List
-
-
-49
-#203
-Remove Linked List Elements
-Easy
-TypeScript
-Linked List
-
-
-50
-#141
-Linked List Cycle
-Easy
-JavaScript
-Linked List
-
-
-51
-#142
-Linked List Cycle II
-Medium
-Java
-Linked List
-
-
-52
-#160
-Intersection of Two Linked Lists
-Easy
-TypeScript
-Linked List
-
-
-53
-#225
-Implement Stack using Queues
-Easy
-JavaScript
-Stack/Queue
-
-
-54
-#234
-Palindrome Linked List
-Easy
-Java
-Linked List
-
-
-55
-#237
-Delete Node in a Linked List
-Easy
-TypeScript
-Linked List
-
-
-56
-#346
-Moving Average from Data Stream
-Easy
-JavaScript
-Queue
-
-
-57
-#622
-Design Circular Queue
-Medium
-Java
-Queue
-
-
-58
-#707
-Design Linked List
-Medium
-TypeScript
-Linked List
-
-
-59
-#876
-Middle of the Linked List
-Easy
-JavaScript
-Linked List
-
-
-60
-#203
-Remove Linked List Elements
-Easy
-Java
-Linked List
-
-
-61
-#104
-Maximum Depth of Binary Tree
-Easy
-JavaScript
-Binary Tree
-
-
-62
-#101
-Symmetric Tree
-Easy
-Java
-Binary Tree
-
-
-63
-#112
-Path Sum
-Easy
-TypeScript
-Binary Tree
-
-
-64
-#226
-Invert Binary Tree
-Easy
-JavaScript
-Binary Tree
-
-
-65
-#100
-Same Tree
-Easy
-Java
-Binary Tree
-
-
-66
-#102
-Binary Tree Level Order Traversal
-Medium
-TypeScript
-Binary Tree
-
-
-67
-#572
-Subtree of Another Tree
-Easy
-JavaScript
-Binary Tree
-
-
-68
-#200
-Number of Islands
-Medium
-Java
-Grafiklar
-
-
-69
-#733
-Flood Fill
-Easy
-TypeScript
-Grafiklar
-
-
-70
-#94
-Binary Tree Inorder Traversal
-Easy
-JavaScript
-Binary Tree
-
-
-71
-#98
-Validate Binary Search Tree
-Medium
-Java
-Binary Tree
-
-
-72
-#108
-Convert Sorted Array to Binary Search Tree
-Easy
-TypeScript
-Binary Tree
-
-
-73
-#110
-Balanced Binary Tree
-Easy
-JavaScript
-Binary Tree
-
-
-74
-#111
-Minimum Depth of Binary Tree
-Easy
-Java
-Binary Tree
-
-
-75
-#144
-Binary Tree Preorder Traversal
-Easy
-TypeScript
-Binary Tree
-
-
-76
-#145
-Binary Tree Postorder Traversal
-Easy
-JavaScript
-Binary Tree
-
-
-77
-#199
-Binary Tree Right Side View
-Medium
-Java
-Binary Tree
-
-
-78
-#404
-Sum of Left Leaves
-Easy
-TypeScript
-Binary Tree
-
-
-79
-#429
-N-ary Tree Level Order Traversal
-Medium
-JavaScript
-Binary Tree
-
-
-80
-#617
-Merge Two Binary Trees
-Easy
-Java
-Binary Tree
-
-
-81
-#70
-Climbing Stairs
-Easy
-JavaScript
-Dinamik dasturlash
-
-
-82
-#198
-House Robber
-Easy
-Java
-Dinamik dasturlash
-
-
-83
-#509
-Fibonacci Number
-Easy
-TypeScript
-Dinamik dasturlash
-
-
-84
-#746
-Min Cost Climbing Stairs
-Easy
-JavaScript
-Dinamik dasturlash
-
-
-85
-#122
-Best Time to Buy and Sell Stock II
-Medium
-Java
-Dinamik dasturlash
-
-
-86
-#5
-Longest Palindromic Substring
-Medium
-TypeScript
-Stringlar
-
-
-87
-#53
-Maximum Subarray
-Easy
-JavaScript
-Dinamik dasturlash
-
-
-88
-#322
-Coin Change
-Medium
-Java
-Dinamik dasturlash
-
-
-89
-#300
-Longest Increasing Subsequence
-Medium
-TypeScript
-Dinamik dasturlash
-
-
-90
-#62
-Unique Paths
-Medium
-JavaScript
-Dinamik dasturlash
-
-
-91
-#63
-Unique Paths II
-Medium
-Java
-Dinamik dasturlash
-
-
-92
-#64
-Minimum Path Sum
-Medium
-TypeScript
-Dinamik dasturlash
-
-
-93
-#91
-Decode Ways
-Medium
-JavaScript
-Dinamik dasturlash
-
-
-94
-#118
-Pascal's Triangle
-Easy
-Java
-Dinamik dasturlash
-
-
-95
-#120
-Triangle
-Medium
-TypeScript
-Dinamik dasturlash
-
-
-96
-#152
-Maximum Product Subarray
-Medium
-JavaScript
-Dinamik dasturlash
-
-
-97
-#213
-House Robber II
-Medium
-Java
-Dinamik dasturlash
-
-
-98
-#279
-Perfect Squares
-Medium
-TypeScript
-Dinamik dasturlash
-
-
-99
-#416
-Partition Equal Subset Sum
-Medium
-JavaScript
-Dinamik dasturlash
-
-
-100
-#1143
-Longest Common Subsequence
-Medium
-Java
-Dinamik dasturlash
-
-
-Qo‘shimcha eslatmalar
-
-Jadvalni Word’ga ko‘chirish: Ushbu Markdown jadvalini Word hujjatiga ko‘chirib, “Table” sifatida formatlash mumkin. Har bir ustunni o‘zingizga mos ravishda sozlashingiz mumkin.
-Tilni almashtirish: Har 3-4 kunda dasturlash tilini o‘zgartirib turing (JavaScript → Java → TypeScript).
-Progressni kuzatish: Har hafta oxirida yechilgan masalalarni ko‘rib chiqing va zaif joylaringizni mustahkamlang.
-GitHub’da saqlash: Har bir masalani alohida fayl sifatida saqlang (masalan, TwoSum.js, TwoSum.ts, TwoSum.java).
-
-Muvaffaqiyat tilayman!
+100 Beginner LeetCode Problems
+Array & Math (1–20)
+•	1. Two Sum
+•	121. Best Time to Buy and Sell Stock
+•	217. Contains Duplicate
+•	53. Maximum Subarray
+•	152. Maximum Product Subarray
+•	153. Find Minimum in Rotated Sorted Array
+•	33. Search in Rotated Sorted Array
+•	15. 3Sum
+•	11. Container With Most Water
+•	26. Remove Duplicates from Sorted Array
+•	88. Merge Sorted Array
+•	283. Move Zeroes
+•	66. Plus One
+•	189. Rotate Array
+•	219. Contains Duplicate II
+•	36. Valid Sudoku
+•	268. Missing Number
+•	169. Majority Element
+•	136. Single Number
+•	350. Intersection of Two Arrays II
+String (21–40)
+•	242. Valid Anagram
+•	125. Valid Palindrome
+•	387. First Unique Character in a String
+•	383. Ransom Note
+•	49. Group Anagrams
+•	14. Longest Common Prefix
+•	28. Implement strStr()
+•	67. Add Binary
+•	344. Reverse String
+•	557. Reverse Words in a String III
+•	3. Longest Substring Without Repeating Characters
+•	6. Zigzag Conversion
+•	8. String to Integer (atoi)
+•	9. Palindrome Number
+•	13. Roman to Integer
+•	12. Integer to Roman
+•	20. Valid Parentheses
+•	5. Longest Palindromic Substring
+•	38. Count and Say
+•	43. Multiply Strings
+Two Pointers & Sliding Window (41–60)
+•	27. Remove Element
+•	19. Remove Nth Node From End
+•	21. Merge Two Sorted Lists
+•	680. Valid Palindrome II
+•	209. Minimum Size Subarray Sum
+•	239. Sliding Window Maximum
+•	424. Longest Repeating Character Replacement
+•	567. Permutation in String
+•	438. Find All Anagrams in a String
+•	560. Subarray Sum Equals K
+•	930. Binary Subarrays With Sum
+•	862. Shortest Subarray with Sum at Least K
+•	76. Minimum Window Substring
+•	287. Find the Duplicate Number
+•	1658. Minimum Operations to Reduce X to Zero
+•	340. Longest Substring with At Most K Distinct Characters
+•	373. Find K Pairs with Smallest Sums
+•	532. K-diff Pairs in an Array
+•	581. Shortest Unsorted Continuous Subarray
+•	1346. Check If N and Its Double Exist
+Stack, Queue, LinkedList (61–80)
+•	20. Valid Parentheses
+•	155. Min Stack
+•	232. Implement Queue using Stacks
+•	225. Implement Stack using Queues
+•	150. Evaluate Reverse Polish Notation
+•	739. Daily Temperatures
+•	496. Next Greater Element I
+•	1047. Remove All Adjacent Duplicates In String
+•	622. Design Circular Queue
+•	206. Reverse Linked List
+•	21. Merge Two Sorted Lists
+•	141. Linked List Cycle
+•	203. Remove Linked List Elements
+•	234. Palindrome Linked List
+•	876. Middle of the Linked List
+•	160. Intersection of Two Linked Lists
+•	83. Remove Duplicates from Sorted List
+•	328. Odd Even Linked List
+•	2. Add Two Numbers
+•	237. Delete Node in a Linked List
+DFS, BFS, Recursion (81–100)
+•	104. Maximum Depth of Binary Tree
+•	100. Same Tree
+•	226. Invert Binary Tree
+•	101. Symmetric Tree
+•	112. Path Sum
+•	110. Balanced Binary Tree
+•	102. Binary Tree Level Order Traversal
+•	111. Minimum Depth of Binary Tree
+•	559. Maximum Depth of N-ary Tree
+•	429. N-ary Tree Level Order Traversal
+•	733. Flood Fill
+•	200. Number of Islands
+•	617. Merge Two Binary Trees
+•	94. Binary Tree Inorder Traversal
+•	236. Lowest Common Ancestor of a Binary Tree
+•	70. Climbing Stairs
+•	509. Fibonacci Number
+•	231. Power of Two
+•	404. Sum of Left Leaves
+•	872. Leaf-Similar Trees
