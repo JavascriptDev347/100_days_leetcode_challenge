@@ -15,7 +15,7 @@ function binarySearch(arr, target) {
     return -1;
 }
 
-let arr = [1, 3, 5, 7, 9, 11, 13];
-let target = 7;
+let arr = [-1,0,3,5,9,12];
+let target = 9;
 
 console.warn(binarySearch(arr, target))
